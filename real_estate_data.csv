@@ -1,0 +1,1001 @@
+City,Area,Type,Square_meters,Orofos,Bedrooms,Bathrooms,Price,Furnished
+Thessaloniki,Ano Poli,House,364,None,4,4,649,No
+Thessaloniki,Ano Poli,Studio,34,5,0,1,472,Yes
+Thessaloniki,Ano Poli,Apartment,194,1,4,1,727,Yes
+Thessaloniki,Ano Poli,Apartment,194,3,3,2,670,No
+Thessaloniki,Ano Poli,House,475,None,3,2,706,No
+Thessaloniki,Ano Poli,Studio,28,1,0,1,413,No
+Thessaloniki,Ano Poli,Apartment,82,3,3,1,669,Yes
+Thessaloniki,Ano Poli,House,490,None,6,3,645,No
+Thessaloniki,Ano Poli,Apartment,192,1,4,1,514,No
+Thessaloniki,Ano Poli,House,97,None,8,4,833,Yes
+Thessaloniki,Ano Poli,House,427,None,6,4,655,No
+Thessaloniki,Ano Poli,House,204,None,6,1,758,Yes
+Thessaloniki,Ano Poli,Studio,48,3,0,1,588,Yes
+Thessaloniki,Ano Poli,House,292,None,7,2,716,Yes
+Thessaloniki,Ano Poli,Apartment,88,1,1,2,774,Yes
+Thessaloniki,Ano Poli,Apartment,124,3,1,2,527,No
+Thessaloniki,Ano Poli,Studio,56,3,0,1,334,No
+Thessaloniki,Ano Poli,House,325,None,9,4,1258,Yes
+Thessaloniki,Ano Poli,Studio,57,3,0,1,434,No
+Thessaloniki,Ano Poli,Studio,25,2,0,1,492,No
+Thessaloniki,Ano Poli,Apartment,106,3,3,1,647,No
+Thessaloniki,Ano Poli,Studio,48,5,0,1,573,Yes
+Thessaloniki,Ano Poli,House,140,None,7,4,854,Yes
+Thessaloniki,Ano Poli,Apartment,100,4,1,2,645,No
+Thessaloniki,Ano Poli,Studio,39,1,0,1,570,Yes
+Thessaloniki,Kastra,Studio,34,1,0,1,679,Yes
+Thessaloniki,Kastra,House,267,None,9,4,763,No
+Thessaloniki,Kastra,Apartment,112,2,1,2,642,Yes
+Thessaloniki,Kastra,House,313,None,9,2,1164,No
+Thessaloniki,Kastra,House,220,None,9,3,1114,No
+Thessaloniki,Kastra,House,196,None,3,3,1192,No
+Thessaloniki,Kastra,Apartment,72,2,2,2,793,Yes
+Thessaloniki,Kastra,Studio,26,3,0,1,434,Yes
+Thessaloniki,Kastra,Apartment,146,1,1,2,883,Yes
+Thessaloniki,Kastra,House,390,None,3,2,1171,No
+Thessaloniki,Kastra,Studio,27,2,0,1,615,Yes
+Thessaloniki,Kastra,Apartment,96,1,3,1,870,Yes
+Thessaloniki,Kastra,Apartment,133,3,1,2,649,No
+Thessaloniki,Kastra,House,435,None,4,2,1352,Yes
+Thessaloniki,Kastra,House,280,None,2,4,985,Yes
+Thessaloniki,Kastra,Apartment,157,2,4,1,865,No
+Thessaloniki,Kastra,House,308,None,4,3,1067,Yes
+Thessaloniki,Kastra,Apartment,167,3,2,2,606,Yes
+Thessaloniki,Kastra,Studio,21,1,0,1,508,Yes
+Thessaloniki,Kastra,Studio,56,4,0,1,594,Yes
+Thessaloniki,Kastra,House,370,None,7,1,1288,Yes
+Thessaloniki,Kastra,Apartment,67,4,2,2,510,No
+Thessaloniki,Kastra,House,175,None,7,3,1171,Yes
+Thessaloniki,Kastra,Studio,54,2,0,1,618,Yes
+Thessaloniki,Kastra,House,435,None,4,2,1260,No
+Thessaloniki,Ladadika,Apartment,105,2,1,2,898,Yes
+Thessaloniki,Ladadika,House,470,None,9,3,1592,Yes
+Thessaloniki,Ladadika,Studio,50,1,0,1,460,No
+Thessaloniki,Ladadika,Studio,56,1,0,1,631,Yes
+Thessaloniki,Ladadika,Apartment,96,1,2,1,1000,Yes
+Thessaloniki,Ladadika,Apartment,199,4,3,1,685,No
+Thessaloniki,Ladadika,House,90,None,4,2,1147,Yes
+Thessaloniki,Ladadika,Apartment,81,3,4,1,888,No
+Thessaloniki,Ladadika,Apartment,62,2,3,1,1027,Yes
+Thessaloniki,Ladadika,House,388,None,8,3,1462,Yes
+Thessaloniki,Ladadika,House,286,None,8,4,996,No
+Thessaloniki,Ladadika,Apartment,138,2,4,1,726,Yes
+Thessaloniki,Ladadika,House,371,None,9,3,1139,Yes
+Thessaloniki,Ladadika,Studio,21,2,0,1,659,Yes
+Thessaloniki,Ladadika,House,97,None,4,4,1147,Yes
+Thessaloniki,Ladadika,House,316,None,4,3,1018,No
+Thessaloniki,Ladadika,Apartment,171,2,2,2,679,No
+Thessaloniki,Ladadika,Apartment,172,2,1,1,722,No
+Thessaloniki,Ladadika,Apartment,172,3,1,2,717,Yes
+Thessaloniki,Ladadika,Apartment,70,1,2,1,770,No
+Thessaloniki,Ladadika,House,225,None,8,1,1457,Yes
+Thessaloniki,Ladadika,Apartment,130,2,1,2,683,No
+Thessaloniki,Ladadika,House,102,None,3,1,1485,No
+Thessaloniki,Ladadika,House,344,None,4,4,1538,Yes
+Thessaloniki,Ladadika,Apartment,72,3,4,1,920,Yes
+Thessaloniki,Navarinou Square,Apartment,138,1,2,2,821,Yes
+Thessaloniki,Navarinou Square,Studio,20,1,0,1,400,No
+Thessaloniki,Navarinou Square,Studio,42,5,0,1,410,No
+Thessaloniki,Navarinou Square,House,421,None,4,1,1075,No
+Thessaloniki,Navarinou Square,House,403,None,3,3,1279,Yes
+Thessaloniki,Navarinou Square,Apartment,74,3,2,1,780,No
+Thessaloniki,Navarinou Square,Studio,25,2,0,1,553,Yes
+Thessaloniki,Navarinou Square,Studio,59,3,0,1,454,No
+Thessaloniki,Navarinou Square,Studio,37,2,0,1,436,Yes
+Thessaloniki,Navarinou Square,House,377,None,5,1,1300,Yes
+Thessaloniki,Navarinou Square,Apartment,197,2,2,1,590,No
+Thessaloniki,Navarinou Square,House,439,None,6,3,878,Yes
+Thessaloniki,Navarinou Square,Studio,27,3,0,1,444,Yes
+Thessaloniki,Navarinou Square,Apartment,140,3,3,2,744,No
+Thessaloniki,Navarinou Square,House,337,None,9,3,1265,Yes
+Thessaloniki,Navarinou Square,Apartment,146,3,2,2,723,Yes
+Thessaloniki,Navarinou Square,Apartment,98,3,4,2,705,No
+Thessaloniki,Navarinou Square,House,252,None,4,4,961,Yes
+Thessaloniki,Navarinou Square,House,426,None,8,4,1156,No
+Thessaloniki,Navarinou Square,Apartment,194,1,1,1,632,Yes
+Thessaloniki,Navarinou Square,House,248,None,2,1,1075,Yes
+Thessaloniki,Navarinou Square,House,82,None,4,4,789,No
+Thessaloniki,Navarinou Square,Studio,44,5,0,1,391,No
+Thessaloniki,Navarinou Square,House,320,None,7,1,1361,Yes
+Thessaloniki,Navarinou Square,Studio,56,3,0,1,455,No
+Thessaloniki,Kalamaria,House,464,None,8,4,982,No
+Thessaloniki,Kalamaria,Studio,40,4,0,1,565,No
+Thessaloniki,Kalamaria,Studio,26,1,0,1,378,No
+Thessaloniki,Kalamaria,House,201,None,2,2,1155,No
+Thessaloniki,Kalamaria,Apartment,182,2,1,1,685,Yes
+Thessaloniki,Kalamaria,Apartment,136,5,2,1,713,Yes
+Thessaloniki,Kalamaria,Apartment,170,5,1,2,609,No
+Thessaloniki,Kalamaria,Apartment,144,5,4,2,784,No
+Thessaloniki,Kalamaria,Apartment,127,4,2,1,748,No
+Thessaloniki,Kalamaria,Apartment,82,0,3,1,651,No
+Thessaloniki,Kalamaria,House,405,None,2,3,1358,Yes
+Thessaloniki,Kalamaria,Studio,45,5,0,1,420,No
+Thessaloniki,Kalamaria,House,416,None,4,3,1413,No
+Thessaloniki,Kalamaria,Apartment,52,3,2,1,692,No
+Thessaloniki,Kalamaria,Studio,41,3,0,1,664,Yes
+Thessaloniki,Kalamaria,House,441,None,4,4,1087,Yes
+Thessaloniki,Kalamaria,Apartment,170,3,2,2,871,No
+Thessaloniki,Kalamaria,Studio,60,1,0,1,632,Yes
+Thessaloniki,Kalamaria,Apartment,168,3,1,2,668,Yes
+Thessaloniki,Kalamaria,Studio,22,1,0,1,609,No
+Thessaloniki,Kalamaria,Apartment,87,2,1,2,665,No
+Thessaloniki,Kalamaria,Studio,56,1,0,1,645,Yes
+Thessaloniki,Kalamaria,Studio,50,1,0,1,518,No
+Thessaloniki,Kalamaria,House,109,None,9,2,843,No
+Thessaloniki,Kalamaria,Studio,39,1,0,1,638,Yes
+Thessaloniki,Toumba,Apartment,145,2,1,1,682,No
+Thessaloniki,Toumba,House,235,None,9,1,790,No
+Thessaloniki,Toumba,Studio,56,1,0,1,534,Yes
+Thessaloniki,Toumba,Studio,30,6,0,1,312,No
+Thessaloniki,Toumba,Apartment,137,3,1,2,959,Yes
+Thessaloniki,Toumba,House,254,None,5,3,1126,Yes
+Thessaloniki,Toumba,Apartment,133,3,1,1,618,No
+Thessaloniki,Toumba,Apartment,66,4,3,1,709,Yes
+Thessaloniki,Toumba,House,224,None,9,1,988,Yes
+Thessaloniki,Toumba,House,397,None,3,3,1273,Yes
+Thessaloniki,Toumba,House,493,None,7,4,1221,No
+Thessaloniki,Toumba,Apartment,180,3,3,1,574,No
+Thessaloniki,Toumba,Studio,49,3,0,1,442,Yes
+Thessaloniki,Toumba,Apartment,107,3,2,2,636,No
+Thessaloniki,Toumba,Studio,59,2,0,1,550,No
+Thessaloniki,Toumba,House,432,None,8,2,1444,Yes
+Thessaloniki,Toumba,Studio,57,2,0,1,457,No
+Thessaloniki,Toumba,Apartment,83,6,1,1,617,No
+Thessaloniki,Toumba,Studio,44,1,0,1,546,Yes
+Thessaloniki,Toumba,Studio,30,1,0,1,551,Yes
+Thessaloniki,Toumba,House,398,None,6,2,957,No
+Thessaloniki,Toumba,Studio,25,3,0,1,575,No
+Thessaloniki,Toumba,Studio,21,3,0,1,688,Yes
+Thessaloniki,Toumba,Apartment,148,3,2,2,670,No
+Thessaloniki,Toumba,House,408,None,3,1,1173,No
+Thessaloniki,Charilaou,Studio,54,3,0,1,301,No
+Thessaloniki,Charilaou,Studio,51,3,0,1,422,No
+Thessaloniki,Charilaou,Apartment,170,1,3,2,604,No
+Thessaloniki,Charilaou,House,175,None,6,3,1017,No
+Thessaloniki,Charilaou,Apartment,55,2,2,2,867,Yes
+Thessaloniki,Charilaou,Studio,21,1,0,1,516,Yes
+Thessaloniki,Charilaou,House,494,None,5,3,968,Yes
+Thessaloniki,Charilaou,Studio,23,1,0,1,369,No
+Thessaloniki,Charilaou,Studio,32,3,0,1,532,No
+Thessaloniki,Charilaou,Apartment,83,3,3,2,610,No
+Thessaloniki,Charilaou,House,87,None,7,2,1048,Yes
+Thessaloniki,Charilaou,House,138,None,2,3,811,No
+Thessaloniki,Charilaou,Studio,46,3,0,1,432,No
+Thessaloniki,Charilaou,House,398,None,5,2,1204,Yes
+Thessaloniki,Charilaou,Apartment,87,3,2,1,530,Yes
+Thessaloniki,Charilaou,Apartment,189,5,2,2,606,No
+Thessaloniki,Charilaou,Apartment,180,3,4,2,862,Yes
+Thessaloniki,Charilaou,House,272,None,7,1,885,No
+Thessaloniki,Charilaou,Apartment,166,3,4,1,730,Yes
+Thessaloniki,Charilaou,Studio,60,1,0,1,314,No
+Thessaloniki,Charilaou,Studio,35,3,0,1,294,No
+Thessaloniki,Charilaou,Apartment,166,1,4,2,511,Yes
+Thessaloniki,Charilaou,House,384,None,7,3,684,No
+Thessaloniki,Charilaou,Studio,39,5,0,1,393,Yes
+Thessaloniki,Charilaou,Studio,47,2,0,1,460,No
+Thessaloniki,Neapoli,Apartment,72,3,4,1,611,No
+Thessaloniki,Neapoli,House,194,None,9,3,971,Yes
+Thessaloniki,Neapoli,Studio,49,4,0,1,558,No
+Thessaloniki,Neapoli,Studio,60,1,0,1,414,No
+Thessaloniki,Neapoli,Apartment,194,1,2,2,673,Yes
+Thessaloniki,Neapoli,Studio,29,2,0,1,554,No
+Thessaloniki,Neapoli,Apartment,140,2,3,1,501,No
+Thessaloniki,Neapoli,House,453,None,4,4,1109,Yes
+Thessaloniki,Neapoli,Apartment,179,1,4,2,749,No
+Thessaloniki,Neapoli,House,113,None,3,1,1053,No
+Thessaloniki,Neapoli,House,298,None,4,1,1333,Yes
+Thessaloniki,Neapoli,Studio,30,2,0,1,519,No
+Thessaloniki,Neapoli,Apartment,177,2,2,2,797,Yes
+Thessaloniki,Neapoli,Studio,24,2,0,1,585,Yes
+Thessaloniki,Neapoli,House,128,None,2,2,1147,Yes
+Thessaloniki,Neapoli,Apartment,184,2,2,2,849,No
+Thessaloniki,Neapoli,Studio,55,3,0,1,393,No
+Thessaloniki,Neapoli,House,132,None,2,3,871,Yes
+Thessaloniki,Neapoli,Studio,55,4,0,1,542,Yes
+Thessaloniki,Neapoli,House,140,None,6,3,967,No
+Thessaloniki,Neapoli,House,342,None,6,2,942,No
+Thessaloniki,Neapoli,Apartment,170,3,3,2,694,Yes
+Thessaloniki,Neapoli,House,353,None,7,2,1266,No
+Thessaloniki,Neapoli,Apartment,139,1,1,2,714,Yes
+Thessaloniki,Neapoli,Studio,38,5,0,1,586,Yes
+Thessaloniki,Kordelio,Apartment,156,4,3,2,829,No
+Thessaloniki,Kordelio,Studio,21,1,0,1,398,No
+Thessaloniki,Kordelio,House,365,None,3,3,826,Yes
+Thessaloniki,Kordelio,Apartment,104,2,2,2,880,No
+Thessaloniki,Kordelio,House,496,None,3,2,1045,Yes
+Thessaloniki,Kordelio,Apartment,80,1,1,1,935,Yes
+Thessaloniki,Kordelio,House,332,None,2,3,946,No
+Thessaloniki,Kordelio,Studio,20,5,0,1,481,No
+Thessaloniki,Kordelio,Studio,60,2,0,1,626,Yes
+Thessaloniki,Kordelio,Studio,40,1,0,1,576,Yes
+Thessaloniki,Kordelio,Apartment,196,2,1,1,765,No
+Thessaloniki,Kordelio,Studio,23,1,0,1,479,Yes
+Thessaloniki,Kordelio,Studio,44,1,0,1,460,No
+Thessaloniki,Kordelio,House,112,None,3,4,1045,Yes
+Thessaloniki,Kordelio,Apartment,149,5,2,2,488,No
+Thessaloniki,Kordelio,Studio,43,1,0,1,335,No
+Thessaloniki,Kordelio,Studio,60,3,0,1,304,No
+Thessaloniki,Kordelio,Apartment,176,1,4,2,852,Yes
+Thessaloniki,Kordelio,Apartment,158,1,4,1,917,Yes
+Thessaloniki,Kordelio,Apartment,195,1,3,1,673,Yes
+Thessaloniki,Kordelio,Apartment,91,2,4,2,472,No
+Thessaloniki,Kordelio,House,88,None,6,3,913,No
+Thessaloniki,Kordelio,Apartment,170,2,4,1,730,No
+Thessaloniki,Kordelio,Apartment,188,3,3,2,557,Yes
+Thessaloniki,Kordelio,Studio,56,2,0,1,480,Yes
+Thessaloniki,Stavroupoli,Apartment,120,4,1,1,921,Yes
+Thessaloniki,Stavroupoli,House,83,None,4,2,1529,Yes
+Thessaloniki,Stavroupoli,House,229,None,7,2,1039,No
+Thessaloniki,Stavroupoli,Studio,22,3,0,1,594,Yes
+Thessaloniki,Stavroupoli,Apartment,68,1,2,1,792,No
+Thessaloniki,Stavroupoli,Apartment,191,5,1,1,1077,Yes
+Thessaloniki,Stavroupoli,Apartment,129,1,4,1,958,No
+Thessaloniki,Stavroupoli,Apartment,85,5,4,2,890,Yes
+Thessaloniki,Stavroupoli,Apartment,91,1,3,2,1011,Yes
+Thessaloniki,Stavroupoli,House,359,None,3,3,1416,No
+Thessaloniki,Stavroupoli,Apartment,177,1,2,2,683,No
+Thessaloniki,Stavroupoli,Studio,52,4,0,1,630,No
+Thessaloniki,Stavroupoli,Studio,45,3,0,1,609,Yes
+Thessaloniki,Stavroupoli,House,496,None,8,2,1315,No
+Thessaloniki,Stavroupoli,House,232,None,9,1,1216,No
+Thessaloniki,Stavroupoli,House,388,None,5,2,1194,No
+Thessaloniki,Stavroupoli,Apartment,105,4,2,1,968,Yes
+Thessaloniki,Stavroupoli,Apartment,70,1,2,1,719,Yes
+Thessaloniki,Stavroupoli,Studio,58,2,0,1,570,No
+Thessaloniki,Stavroupoli,House,149,None,5,1,1417,No
+Thessaloniki,Stavroupoli,House,377,None,7,1,1231,Yes
+Thessaloniki,Stavroupoli,House,141,None,2,4,1255,Yes
+Thessaloniki,Stavroupoli,Studio,51,4,0,1,527,No
+Thessaloniki,Stavroupoli,Studio,39,3,0,1,576,Yes
+Thessaloniki,Stavroupoli,Studio,56,4,0,1,626,No
+Thessaloniki,Pylaia,Studio,44,2,0,1,590,Yes
+Thessaloniki,Pylaia,Apartment,80,4,4,2,629,No
+Thessaloniki,Pylaia,Studio,23,2,0,1,696,Yes
+Thessaloniki,Pylaia,House,396,None,3,3,1480,Yes
+Thessaloniki,Pylaia,Apartment,123,3,2,2,890,Yes
+Thessaloniki,Pylaia,House,221,None,3,1,1398,No
+Thessaloniki,Pylaia,Studio,48,3,0,1,635,Yes
+Thessaloniki,Pylaia,Apartment,160,2,1,2,562,No
+Thessaloniki,Pylaia,Apartment,140,3,4,1,962,Yes
+Thessaloniki,Pylaia,Studio,40,3,0,1,698,Yes
+Thessaloniki,Pylaia,House,93,None,8,2,956,Yes
+Thessaloniki,Pylaia,House,192,None,7,4,1244,Yes
+Thessaloniki,Pylaia,House,370,None,2,1,1382,Yes
+Thessaloniki,Pylaia,Studio,28,1,0,1,695,Yes
+Thessaloniki,Pylaia,House,412,None,4,4,925,Yes
+Thessaloniki,Pylaia,Apartment,59,2,2,1,685,Yes
+Thessaloniki,Pylaia,House,445,None,7,1,950,Yes
+Thessaloniki,Pylaia,House,403,None,7,4,933,No
+Thessaloniki,Pylaia,Apartment,161,4,4,2,720,Yes
+Thessaloniki,Pylaia,House,92,None,4,4,1107,No
+Thessaloniki,Pylaia,Studio,30,2,0,1,518,Yes
+Thessaloniki,Pylaia,House,130,None,4,1,1222,Yes
+Thessaloniki,Pylaia,House,467,None,5,2,907,No
+Thessaloniki,Pylaia,House,196,None,2,2,1002,No
+Thessaloniki,Pylaia,Studio,52,5,0,1,425,No
+Thessaloniki,Panorama,House,418,None,5,2,1310,Yes
+Thessaloniki,Panorama,Studio,51,6,0,1,471,No
+Thessaloniki,Panorama,House,488,None,2,4,1537,No
+Thessaloniki,Panorama,Studio,25,3,0,1,721,No
+Thessaloniki,Panorama,House,383,None,9,3,1078,Yes
+Thessaloniki,Panorama,House,182,None,3,4,1602,No
+Thessaloniki,Panorama,Studio,59,3,0,1,468,No
+Thessaloniki,Panorama,Studio,55,3,0,1,476,No
+Thessaloniki,Panorama,Apartment,51,2,1,2,706,No
+Thessaloniki,Panorama,Studio,36,4,0,1,704,No
+Thessaloniki,Panorama,Studio,23,4,0,1,758,Yes
+Thessaloniki,Panorama,House,148,None,6,2,1629,No
+Thessaloniki,Panorama,House,387,None,6,1,1324,No
+Thessaloniki,Panorama,Studio,47,2,0,1,565,Yes
+Thessaloniki,Panorama,House,410,None,7,2,1684,Yes
+Thessaloniki,Panorama,Apartment,166,2,3,1,1140,Yes
+Thessaloniki,Panorama,Studio,50,2,0,1,730,Yes
+Thessaloniki,Panorama,Apartment,65,1,4,1,726,No
+Thessaloniki,Panorama,House,442,None,4,4,1380,No
+Thessaloniki,Panorama,House,413,None,8,1,1237,No
+Thessaloniki,Panorama,Studio,48,3,0,1,698,No
+Thessaloniki,Panorama,Apartment,159,5,3,2,1159,Yes
+Thessaloniki,Panorama,House,183,None,2,2,1402,Yes
+Thessaloniki,Panorama,Studio,49,1,0,1,623,Yes
+Thessaloniki,Panorama,Studio,29,3,0,1,584,No
+Thessaloniki,Triandria,Apartment,122,2,1,2,676,Yes
+Thessaloniki,Triandria,Studio,48,4,0,1,587,Yes
+Thessaloniki,Triandria,House,409,None,8,3,916,Yes
+Thessaloniki,Triandria,House,84,None,3,4,1175,Yes
+Thessaloniki,Triandria,Studio,54,2,0,1,538,No
+Thessaloniki,Triandria,Apartment,171,3,3,1,929,Yes
+Thessaloniki,Triandria,House,126,None,2,3,830,Yes
+Thessaloniki,Triandria,House,297,None,4,2,785,Yes
+Thessaloniki,Triandria,House,204,None,9,2,1273,Yes
+Thessaloniki,Triandria,House,425,None,8,2,712,No
+Thessaloniki,Triandria,Studio,46,1,0,1,625,Yes
+Thessaloniki,Triandria,Studio,58,2,0,1,316,No
+Thessaloniki,Triandria,House,145,None,7,1,1195,No
+Thessaloniki,Triandria,Studio,26,5,0,1,552,No
+Thessaloniki,Triandria,House,323,None,4,2,1089,No
+Thessaloniki,Triandria,House,335,None,6,2,821,Yes
+Thessaloniki,Triandria,House,381,None,2,3,1186,No
+Thessaloniki,Triandria,Apartment,60,1,3,1,783,Yes
+Thessaloniki,Triandria,House,500,None,2,3,862,Yes
+Thessaloniki,Triandria,House,177,None,8,4,1230,No
+Thessaloniki,Triandria,Apartment,172,5,3,2,767,Yes
+Thessaloniki,Triandria,Apartment,199,1,2,1,608,No
+Thessaloniki,Triandria,House,313,None,7,4,925,Yes
+Thessaloniki,Triandria,Studio,43,3,0,1,657,Yes
+Thessaloniki,Triandria,Studio,53,2,0,1,514,No
+Thessaloniki,Evosmos,Apartment,158,6,4,1,921,Yes
+Thessaloniki,Evosmos,Apartment,55,5,4,2,482,No
+Thessaloniki,Evosmos,Apartment,98,1,4,2,841,Yes
+Thessaloniki,Evosmos,Apartment,113,4,2,2,733,No
+Thessaloniki,Evosmos,House,181,None,9,4,1317,No
+Thessaloniki,Evosmos,Studio,33,1,0,1,300,No
+Thessaloniki,Evosmos,Apartment,88,4,4,1,777,No
+Thessaloniki,Evosmos,House,227,None,4,3,1031,Yes
+Thessaloniki,Evosmos,House,413,None,5,2,1108,No
+Thessaloniki,Evosmos,Studio,41,3,0,1,604,Yes
+Thessaloniki,Evosmos,Studio,21,2,0,1,588,Yes
+Thessaloniki,Evosmos,Apartment,68,1,1,1,601,Yes
+Thessaloniki,Evosmos,House,343,None,3,3,934,Yes
+Thessaloniki,Evosmos,House,185,None,9,1,1259,Yes
+Thessaloniki,Evosmos,Apartment,187,2,3,2,724,Yes
+Thessaloniki,Evosmos,Apartment,59,4,2,1,521,No
+Thessaloniki,Evosmos,Studio,54,3,0,1,481,Yes
+Thessaloniki,Evosmos,House,133,None,5,2,1054,No
+Thessaloniki,Evosmos,House,452,None,7,3,797,Yes
+Thessaloniki,Evosmos,Apartment,116,1,2,1,881,Yes
+Thessaloniki,Evosmos,House,208,None,2,4,861,No
+Thessaloniki,Evosmos,Studio,52,1,0,1,556,Yes
+Thessaloniki,Evosmos,House,440,None,2,1,1274,Yes
+Thessaloniki,Evosmos,House,298,None,4,1,1363,Yes
+Thessaloniki,Evosmos,House,464,None,6,3,814,Yes
+Thessaloniki,Agios Pavlos,Apartment,178,3,1,2,585,No
+Thessaloniki,Agios Pavlos,House,389,None,4,2,1055,Yes
+Thessaloniki,Agios Pavlos,House,281,None,2,1,805,Yes
+Thessaloniki,Agios Pavlos,Apartment,52,4,3,2,645,No
+Thessaloniki,Agios Pavlos,Apartment,161,1,3,1,676,No
+Thessaloniki,Agios Pavlos,Studio,34,1,0,1,328,No
+Thessaloniki,Agios Pavlos,Apartment,110,5,1,2,696,Yes
+Thessaloniki,Agios Pavlos,Apartment,50,3,2,2,449,No
+Thessaloniki,Agios Pavlos,Studio,48,3,0,1,535,Yes
+Thessaloniki,Agios Pavlos,Studio,38,5,0,1,369,Yes
+Thessaloniki,Agios Pavlos,House,101,None,6,3,1131,No
+Thessaloniki,Agios Pavlos,Studio,36,3,0,1,423,No
+Thessaloniki,Agios Pavlos,Studio,57,3,0,1,449,Yes
+Thessaloniki,Agios Pavlos,Studio,60,5,0,1,492,No
+Thessaloniki,Agios Pavlos,House,424,None,5,1,627,No
+Thessaloniki,Agios Pavlos,Apartment,131,2,2,1,540,Yes
+Thessaloniki,Agios Pavlos,Studio,30,0,0,1,320,No
+Thessaloniki,Agios Pavlos,Studio,27,6,0,1,448,No
+Thessaloniki,Agios Pavlos,Apartment,196,3,4,1,616,No
+Thessaloniki,Agios Pavlos,House,241,None,2,3,922,No
+Thessaloniki,Agios Pavlos,Apartment,184,6,3,1,867,Yes
+Thessaloniki,Agios Pavlos,Apartment,65,2,2,2,585,Yes
+Thessaloniki,Agios Pavlos,Apartment,192,1,3,1,700,Yes
+Thessaloniki,Agios Pavlos,House,97,None,3,3,998,Yes
+Thessaloniki,Agios Pavlos,Studio,29,2,0,1,422,No
+Thessaloniki,Ippokrateio,House,474,None,7,4,1036,No
+Thessaloniki,Ippokrateio,Studio,27,1,0,1,636,Yes
+Thessaloniki,Ippokrateio,Studio,37,3,0,1,481,Yes
+Thessaloniki,Ippokrateio,House,382,None,8,3,895,No
+Thessaloniki,Ippokrateio,House,184,None,8,1,1511,Yes
+Thessaloniki,Ippokrateio,Studio,54,3,0,1,604,No
+Thessaloniki,Ippokrateio,House,433,None,8,4,928,Yes
+Thessaloniki,Ippokrateio,Apartment,197,6,1,2,990,Yes
+Thessaloniki,Ippokrateio,Studio,38,2,0,1,482,Yes
+Thessaloniki,Ippokrateio,Apartment,112,5,4,2,858,No
+Thessaloniki,Ippokrateio,Apartment,152,1,3,2,885,Yes
+Thessaloniki,Ippokrateio,House,407,None,8,1,1237,Yes
+Thessaloniki,Ippokrateio,Apartment,193,5,3,2,504,No
+Thessaloniki,Ippokrateio,Studio,54,1,0,1,500,Yes
+Thessaloniki,Ippokrateio,Apartment,196,2,1,2,699,No
+Thessaloniki,Ippokrateio,Apartment,75,5,4,1,783,No
+Thessaloniki,Ippokrateio,House,235,None,8,4,989,Yes
+Thessaloniki,Ippokrateio,House,233,None,8,2,1225,Yes
+Thessaloniki,Ippokrateio,House,268,None,8,3,835,No
+Thessaloniki,Ippokrateio,Studio,48,4,0,1,502,No
+Thessaloniki,Ippokrateio,House,421,None,2,4,1048,Yes
+Thessaloniki,Ippokrateio,Studio,45,3,0,1,684,Yes
+Thessaloniki,Ippokrateio,Studio,26,5,0,1,528,No
+Thessaloniki,Ippokrateio,House,93,None,3,2,972,No
+Thessaloniki,Ippokrateio,House,366,None,8,4,1203,No
+Thessaloniki,Faliro,Apartment,124,2,3,2,928,No
+Thessaloniki,Faliro,House,151,None,7,3,936,No
+Thessaloniki,Faliro,Studio,51,1,0,1,527,No
+Thessaloniki,Faliro,Studio,32,4,0,1,604,No
+Thessaloniki,Faliro,Studio,45,1,0,1,647,No
+Thessaloniki,Faliro,Studio,49,5,0,1,415,No
+Thessaloniki,Faliro,Apartment,83,1,4,2,912,Yes
+Thessaloniki,Faliro,Studio,50,2,0,1,490,No
+Thessaloniki,Faliro,Apartment,160,3,1,2,895,Yes
+Thessaloniki,Faliro,Apartment,181,2,4,1,1032,Yes
+Thessaloniki,Faliro,House,426,None,7,4,1480,Yes
+Thessaloniki,Faliro,Studio,35,0,0,1,605,Yes
+Thessaloniki,Faliro,House,444,None,6,3,1187,Yes
+Thessaloniki,Faliro,Studio,23,2,0,1,446,No
+Thessaloniki,Faliro,House,123,None,2,3,1493,Yes
+Thessaloniki,Faliro,Studio,50,3,0,1,688,Yes
+Thessaloniki,Faliro,Apartment,198,5,1,2,897,Yes
+Thessaloniki,Faliro,Studio,56,3,0,1,595,No
+Thessaloniki,Faliro,Apartment,53,2,2,1,1023,No
+Thessaloniki,Faliro,House,141,None,3,1,1045,Yes
+Thessaloniki,Faliro,Studio,50,3,0,1,430,No
+Thessaloniki,Faliro,House,359,None,6,4,1135,Yes
+Thessaloniki,Faliro,House,480,None,4,4,1528,No
+Thessaloniki,Faliro,Studio,24,3,0,1,704,Yes
+Thessaloniki,Faliro,House,318,None,2,1,1292,Yes
+Thessaloniki,Nea Krini,Apartment,137,2,1,1,756,No
+Thessaloniki,Nea Krini,Studio,23,2,0,1,460,No
+Thessaloniki,Nea Krini,Apartment,183,2,2,1,638,No
+Thessaloniki,Nea Krini,Apartment,78,1,4,1,741,Yes
+Thessaloniki,Nea Krini,House,86,None,6,4,1381,Yes
+Thessaloniki,Nea Krini,Apartment,90,1,4,1,792,No
+Thessaloniki,Nea Krini,Studio,31,2,0,1,753,Yes
+Thessaloniki,Nea Krini,House,328,None,4,2,1029,No
+Thessaloniki,Nea Krini,Apartment,131,2,3,2,1044,Yes
+Thessaloniki,Nea Krini,House,183,None,2,2,1170,No
+Thessaloniki,Nea Krini,Studio,57,3,0,1,535,No
+Thessaloniki,Nea Krini,House,411,None,3,3,1486,No
+Thessaloniki,Nea Krini,House,82,None,8,4,1081,Yes
+Thessaloniki,Nea Krini,Studio,34,3,0,1,412,No
+Thessaloniki,Nea Krini,Apartment,80,2,3,1,722,No
+Thessaloniki,Nea Krini,Studio,29,2,0,1,686,Yes
+Thessaloniki,Nea Krini,Studio,34,2,0,1,626,Yes
+Thessaloniki,Nea Krini,Studio,33,0,0,1,381,No
+Thessaloniki,Nea Krini,Studio,48,3,0,1,733,Yes
+Thessaloniki,Nea Krini,House,368,None,7,2,1513,Yes
+Thessaloniki,Nea Krini,Studio,36,0,0,1,470,No
+Thessaloniki,Nea Krini,Studio,21,5,0,1,741,Yes
+Thessaloniki,Nea Krini,House,191,None,7,2,1312,No
+Thessaloniki,Nea Krini,House,105,None,5,2,919,No
+Thessaloniki,Nea Krini,Apartment,106,2,1,1,1047,Yes
+Thessaloniki,Xirokrini,Apartment,118,1,4,1,902,Yes
+Thessaloniki,Xirokrini,Apartment,187,4,3,2,829,Yes
+Thessaloniki,Xirokrini,Studio,42,6,0,1,537,Yes
+Thessaloniki,Xirokrini,Studio,24,2,0,1,491,Yes
+Thessaloniki,Xirokrini,House,260,None,5,2,1067,Yes
+Thessaloniki,Xirokrini,House,207,None,2,4,875,Yes
+Thessaloniki,Xirokrini,Apartment,100,3,1,1,495,No
+Thessaloniki,Xirokrini,Apartment,130,3,4,2,691,No
+Thessaloniki,Xirokrini,Apartment,154,1,3,2,831,Yes
+Thessaloniki,Xirokrini,House,221,None,5,4,1036,Yes
+Thessaloniki,Xirokrini,Studio,42,1,0,1,551,Yes
+Thessaloniki,Xirokrini,House,267,None,2,4,1289,Yes
+Thessaloniki,Xirokrini,Apartment,121,1,4,2,788,No
+Thessaloniki,Xirokrini,Studio,60,3,0,1,374,No
+Thessaloniki,Xirokrini,Studio,58,1,0,1,388,No
+Thessaloniki,Xirokrini,House,475,None,9,1,880,Yes
+Thessaloniki,Xirokrini,Studio,44,5,0,1,306,No
+Thessaloniki,Xirokrini,Studio,54,1,0,1,335,No
+Thessaloniki,Xirokrini,Studio,55,1,0,1,548,No
+Thessaloniki,Xirokrini,Apartment,107,1,3,2,470,No
+Thessaloniki,Xirokrini,Studio,51,2,0,1,378,No
+Thessaloniki,Xirokrini,Apartment,56,3,3,1,595,No
+Thessaloniki,Xirokrini,House,183,None,4,3,823,Yes
+Thessaloniki,Xirokrini,Apartment,175,2,4,2,838,No
+Thessaloniki,Xirokrini,House,204,None,2,4,1321,Yes
+Thessaloniki,Nea Paralia,House,353,None,2,1,1384,No
+Thessaloniki,Nea Paralia,House,376,None,3,4,1647,No
+Thessaloniki,Nea Paralia,Apartment,195,1,1,2,778,No
+Thessaloniki,Nea Paralia,Apartment,102,3,1,2,1009,Yes
+Thessaloniki,Nea Paralia,Studio,26,3,0,1,524,No
+Thessaloniki,Nea Paralia,House,277,None,6,2,1399,Yes
+Thessaloniki,Nea Paralia,Studio,58,1,0,1,623,Yes
+Thessaloniki,Nea Paralia,Studio,29,2,0,1,789,Yes
+Thessaloniki,Nea Paralia,House,358,None,6,4,1402,No
+Thessaloniki,Nea Paralia,House,212,None,6,4,1621,No
+Thessaloniki,Nea Paralia,Studio,36,0,0,1,606,Yes
+Thessaloniki,Nea Paralia,Apartment,118,0,4,2,815,No
+Thessaloniki,Nea Paralia,Studio,52,2,0,1,511,No
+Thessaloniki,Nea Paralia,Studio,52,3,0,1,577,No
+Thessaloniki,Nea Paralia,Studio,48,2,0,1,884,Yes
+Thessaloniki,Nea Paralia,House,270,None,6,2,1531,Yes
+Thessaloniki,Nea Paralia,Apartment,108,0,1,1,839,Yes
+Thessaloniki,Nea Paralia,Studio,43,3,0,1,763,No
+Thessaloniki,Nea Paralia,Apartment,171,1,1,2,976,No
+Thessaloniki,Nea Paralia,House,91,None,7,3,1274,Yes
+Thessaloniki,Nea Paralia,Apartment,156,3,2,1,963,Yes
+Thessaloniki,Nea Paralia,House,407,None,8,2,1170,No
+Thessaloniki,Nea Paralia,Studio,48,3,0,1,651,No
+Thessaloniki,Nea Paralia,House,179,None,4,2,1693,Yes
+Thessaloniki,Nea Paralia,Apartment,71,2,1,1,1026,Yes
+Athens,Kolonaki,House,245,None,7,1,1290,No
+Athens,Kolonaki,House,120,None,4,4,1485,No
+Athens,Kolonaki,House,450,None,4,3,1452,No
+Athens,Kolonaki,Studio,57,5,0,1,643,Yes
+Athens,Kolonaki,Studio,27,2,0,1,699,Yes
+Athens,Kolonaki,Apartment,196,4,3,1,843,No
+Athens,Kolonaki,Studio,29,1,0,1,583,No
+Athens,Kolonaki,House,218,None,2,2,1306,No
+Athens,Kolonaki,Studio,57,2,0,1,546,No
+Athens,Kolonaki,Studio,22,1,0,1,752,Yes
+Athens,Kolonaki,Apartment,196,3,4,2,1097,Yes
+Athens,Kolonaki,Apartment,95,3,3,1,815,No
+Athens,Kolonaki,Studio,26,3,0,1,607,No
+Athens,Kolonaki,Studio,21,1,0,1,680,Yes
+Athens,Kolonaki,House,315,None,7,2,1507,Yes
+Athens,Kolonaki,House,113,None,3,4,1432,Yes
+Athens,Kolonaki,Apartment,156,3,1,1,1092,Yes
+Athens,Kolonaki,Studio,55,4,0,1,658,Yes
+Athens,Kolonaki,House,212,None,6,3,1531,Yes
+Athens,Kolonaki,House,406,None,8,1,1446,No
+Athens,Kolonaki,Studio,29,2,0,1,746,Yes
+Athens,Kolonaki,House,424,None,9,4,1429,No
+Athens,Kolonaki,Studio,31,3,0,1,638,Yes
+Athens,Kolonaki,House,459,None,6,3,1372,Yes
+Athens,Kolonaki,Studio,37,2,0,1,659,No
+Athens,Plaka,Apartment,102,3,3,1,992,Yes
+Athens,Plaka,House,165,None,9,2,1438,Yes
+Athens,Plaka,House,157,None,9,4,1024,No
+Athens,Plaka,Apartment,147,3,3,2,687,No
+Athens,Plaka,House,438,None,5,2,916,No
+Athens,Plaka,Apartment,143,0,1,2,688,Yes
+Athens,Plaka,Studio,51,3,0,1,679,Yes
+Athens,Plaka,House,208,None,9,3,891,No
+Athens,Plaka,Apartment,117,2,4,1,714,No
+Athens,Plaka,Studio,48,4,0,1,492,No
+Athens,Plaka,Studio,22,3,0,1,446,No
+Athens,Plaka,Studio,55,3,0,1,510,No
+Athens,Plaka,House,460,None,9,2,996,No
+Athens,Plaka,House,304,None,6,1,1135,Yes
+Athens,Plaka,Studio,30,2,0,1,596,No
+Athens,Plaka,House,189,None,7,3,1318,Yes
+Athens,Plaka,House,146,None,6,2,851,Yes
+Athens,Plaka,Apartment,66,2,3,2,579,No
+Athens,Plaka,Apartment,99,2,2,2,833,Yes
+Athens,Plaka,Studio,32,1,0,1,445,No
+Athens,Plaka,House,326,None,8,2,1285,No
+Athens,Plaka,House,281,None,3,1,1243,No
+Athens,Plaka,Studio,30,1,0,1,586,No
+Athens,Plaka,Apartment,54,1,3,2,796,No
+Athens,Plaka,House,340,None,7,1,1309,No
+Athens,Syntagma,House,340,None,6,1,1032,No
+Athens,Syntagma,House,118,None,3,3,1119,No
+Athens,Syntagma,Apartment,109,2,4,2,634,No
+Athens,Syntagma,Studio,53,2,0,1,534,Yes
+Athens,Syntagma,Apartment,146,3,4,1,990,Yes
+Athens,Syntagma,Apartment,59,2,3,2,585,No
+Athens,Syntagma,Apartment,78,1,4,1,605,No
+Athens,Syntagma,Studio,29,5,0,1,592,Yes
+Athens,Syntagma,Apartment,182,2,4,1,649,No
+Athens,Syntagma,Studio,53,5,0,1,552,No
+Athens,Syntagma,Apartment,58,2,3,2,909,No
+Athens,Syntagma,House,140,None,2,2,1003,Yes
+Athens,Syntagma,Apartment,135,3,3,1,633,No
+Athens,Syntagma,Studio,57,2,0,1,561,No
+Athens,Syntagma,Studio,22,1,0,1,567,Yes
+Athens,Syntagma,House,489,None,8,4,1454,Yes
+Athens,Syntagma,House,84,None,8,3,1027,Yes
+Athens,Syntagma,House,300,None,5,4,1104,No
+Athens,Syntagma,House,284,None,9,1,1432,Yes
+Athens,Syntagma,Apartment,103,4,4,2,575,No
+Athens,Syntagma,House,96,None,7,2,1092,No
+Athens,Syntagma,House,377,None,8,4,1384,Yes
+Athens,Syntagma,House,273,None,8,1,1156,No
+Athens,Syntagma,Studio,38,1,0,1,547,No
+Athens,Syntagma,Apartment,190,5,1,1,736,Yes
+Athens,Monastiraki,House,104,None,4,4,795,No
+Athens,Monastiraki,House,336,None,7,3,1113,No
+Athens,Monastiraki,Studio,46,4,0,1,510,Yes
+Athens,Monastiraki,Apartment,112,2,1,1,776,Yes
+Athens,Monastiraki,House,290,None,4,3,957,No
+Athens,Monastiraki,Studio,32,6,0,1,419,Yes
+Athens,Monastiraki,Studio,24,1,0,1,646,Yes
+Athens,Monastiraki,House,313,None,4,4,988,Yes
+Athens,Monastiraki,Apartment,94,1,1,2,592,Yes
+Athens,Monastiraki,Studio,20,3,0,1,414,Yes
+Athens,Monastiraki,House,174,None,8,4,1071,No
+Athens,Monastiraki,Apartment,144,3,1,2,639,Yes
+Athens,Monastiraki,Apartment,74,4,1,1,555,No
+Athens,Monastiraki,Studio,43,5,0,1,356,No
+Athens,Monastiraki,Studio,55,3,0,1,613,Yes
+Athens,Monastiraki,House,479,None,5,1,1262,Yes
+Athens,Monastiraki,Studio,30,5,0,1,422,No
+Athens,Monastiraki,Apartment,152,3,3,2,577,No
+Athens,Monastiraki,Studio,50,2,0,1,460,Yes
+Athens,Monastiraki,Studio,57,3,0,1,493,Yes
+Athens,Monastiraki,Studio,35,4,0,1,470,Yes
+Athens,Monastiraki,House,409,None,9,4,853,Yes
+Athens,Monastiraki,House,85,None,7,1,918,No
+Athens,Monastiraki,Apartment,61,1,2,2,617,No
+Athens,Monastiraki,Studio,32,5,0,1,397,No
+Athens,Exarchia,Apartment,50,4,4,1,671,No
+Athens,Exarchia,House,204,None,4,1,1015,No
+Athens,Exarchia,Apartment,175,2,1,2,639,No
+Athens,Exarchia,Apartment,145,1,4,2,559,No
+Athens,Exarchia,Studio,43,1,0,1,281,No
+Athens,Exarchia,Studio,39,2,0,1,377,No
+Athens,Exarchia,House,413,None,2,4,760,No
+Athens,Exarchia,Apartment,57,1,2,2,725,Yes
+Athens,Exarchia,Apartment,166,1,2,1,465,No
+Athens,Exarchia,Studio,38,3,0,1,419,No
+Athens,Exarchia,Studio,24,3,0,1,503,No
+Athens,Exarchia,Studio,45,3,0,1,433,Yes
+Athens,Exarchia,Apartment,159,1,1,2,810,Yes
+Athens,Exarchia,Apartment,64,1,4,2,669,No
+Athens,Exarchia,Apartment,96,4,2,1,536,No
+Athens,Exarchia,Apartment,161,3,1,1,521,No
+Athens,Exarchia,House,464,None,9,2,1099,No
+Athens,Exarchia,House,384,None,5,2,693,No
+Athens,Exarchia,House,450,None,5,4,1268,Yes
+Athens,Exarchia,Apartment,115,5,4,2,867,Yes
+Athens,Exarchia,Studio,48,6,0,1,420,No
+Athens,Exarchia,Studio,20,3,0,1,552,Yes
+Athens,Exarchia,Studio,27,3,0,1,388,Yes
+Athens,Exarchia,Apartment,106,1,3,1,479,No
+Athens,Exarchia,Apartment,81,5,4,1,764,Yes
+Athens,Glyfada,House,446,None,5,2,1557,No
+Athens,Glyfada,Studio,29,1,0,1,853,Yes
+Athens,Glyfada,Apartment,125,2,3,2,1014,Yes
+Athens,Glyfada,Studio,59,2,0,1,726,Yes
+Athens,Glyfada,Studio,21,5,0,1,496,No
+Athens,Glyfada,House,462,None,4,4,1891,Yes
+Athens,Glyfada,House,148,None,5,1,1228,No
+Athens,Glyfada,Studio,45,1,0,1,598,Yes
+Athens,Glyfada,Studio,21,3,0,1,580,No
+Athens,Glyfada,Studio,51,1,0,1,654,No
+Athens,Glyfada,Studio,42,2,0,1,620,Yes
+Athens,Glyfada,Apartment,82,4,2,2,1233,Yes
+Athens,Glyfada,Apartment,51,3,1,2,1054,No
+Athens,Glyfada,House,402,None,5,4,1697,Yes
+Athens,Glyfada,House,263,None,3,2,1315,Yes
+Athens,Glyfada,Studio,38,2,0,1,687,Yes
+Athens,Glyfada,Apartment,106,4,1,1,1198,No
+Athens,Glyfada,Studio,36,3,0,1,725,No
+Athens,Glyfada,Apartment,135,1,4,1,1157,Yes
+Athens,Glyfada,Studio,40,5,0,1,528,No
+Athens,Glyfada,Apartment,176,3,4,1,1109,Yes
+Athens,Glyfada,House,333,None,3,1,1249,No
+Athens,Glyfada,Apartment,166,1,3,1,808,No
+Athens,Glyfada,Studio,39,2,0,1,502,No
+Athens,Glyfada,Studio,24,1,0,1,778,No
+Athens,Kifisia,Apartment,142,3,4,2,881,No
+Athens,Kifisia,Studio,30,2,0,1,808,Yes
+Athens,Kifisia,House,315,None,3,1,1401,No
+Athens,Kifisia,House,442,None,9,1,1438,Yes
+Athens,Kifisia,Studio,24,2,0,1,586,No
+Athens,Kifisia,Studio,52,3,0,1,908,Yes
+Athens,Kifisia,House,290,None,6,2,1768,No
+Athens,Kifisia,Studio,35,2,0,1,735,No
+Athens,Kifisia,Studio,22,3,0,1,845,Yes
+Athens,Kifisia,Studio,24,2,0,1,863,No
+Athens,Kifisia,Apartment,190,3,4,2,1256,No
+Athens,Kifisia,Apartment,146,2,4,1,925,No
+Athens,Kifisia,House,314,None,8,2,1267,Yes
+Athens,Kifisia,Studio,40,1,0,1,888,Yes
+Athens,Kifisia,Apartment,162,3,4,2,1346,Yes
+Athens,Kifisia,House,361,None,5,4,1465,Yes
+Athens,Kifisia,House,346,None,7,4,1696,Yes
+Athens,Kifisia,House,132,None,6,1,1652,Yes
+Athens,Kifisia,Apartment,72,1,1,2,1050,Yes
+Athens,Kifisia,Studio,37,2,0,1,709,Yes
+Athens,Kifisia,Studio,37,5,0,1,850,No
+Athens,Kifisia,Apartment,65,5,2,1,801,No
+Athens,Kifisia,House,241,None,4,1,1311,No
+Athens,Kifisia,Apartment,152,1,3,1,987,No
+Athens,Kifisia,Studio,43,1,0,1,686,No
+Athens,Nea Smyrni,Apartment,107,2,1,2,539,No
+Athens,Nea Smyrni,House,352,None,8,1,1292,Yes
+Athens,Nea Smyrni,House,368,None,7,4,1442,Yes
+Athens,Nea Smyrni,House,352,None,3,3,1100,Yes
+Athens,Nea Smyrni,Studio,52,1,0,1,592,Yes
+Athens,Nea Smyrni,House,218,None,8,2,1490,Yes
+Athens,Nea Smyrni,House,209,None,7,4,1102,Yes
+Athens,Nea Smyrni,House,390,None,4,1,1209,No
+Athens,Nea Smyrni,Studio,42,3,0,1,474,No
+Athens,Nea Smyrni,Studio,30,2,0,1,514,Yes
+Athens,Nea Smyrni,Apartment,89,2,1,1,909,No
+Athens,Nea Smyrni,Studio,49,2,0,1,470,Yes
+Athens,Nea Smyrni,Studio,35,2,0,1,608,Yes
+Athens,Nea Smyrni,Apartment,175,4,1,1,662,Yes
+Athens,Nea Smyrni,House,415,None,8,3,905,Yes
+Athens,Nea Smyrni,Apartment,156,4,4,1,826,Yes
+Athens,Nea Smyrni,Apartment,75,5,4,1,1001,Yes
+Athens,Nea Smyrni,House,400,None,2,4,777,No
+Athens,Nea Smyrni,Apartment,73,2,2,2,637,Yes
+Athens,Nea Smyrni,Studio,55,5,0,1,471,Yes
+Athens,Nea Smyrni,House,114,None,6,4,1097,Yes
+Athens,Nea Smyrni,House,192,None,5,4,949,No
+Athens,Nea Smyrni,Apartment,106,3,3,2,656,No
+Athens,Nea Smyrni,Studio,60,4,0,1,539,Yes
+Athens,Nea Smyrni,Apartment,152,5,4,1,945,No
+Athens,Piraeus,Apartment,96,2,4,2,678,No
+Athens,Piraeus,Apartment,159,5,3,2,755,Yes
+Athens,Piraeus,House,99,None,4,4,1177,No
+Athens,Piraeus,Studio,59,5,0,1,524,No
+Athens,Piraeus,House,437,None,8,2,1342,No
+Athens,Piraeus,Studio,46,1,0,1,447,No
+Athens,Piraeus,Apartment,115,1,1,1,613,Yes
+Athens,Piraeus,Studio,23,6,0,1,672,Yes
+Athens,Piraeus,House,476,None,8,1,1336,No
+Athens,Piraeus,Apartment,52,3,4,1,856,Yes
+Athens,Piraeus,Studio,22,3,0,1,625,Yes
+Athens,Piraeus,Apartment,183,1,1,1,851,No
+Athens,Piraeus,Studio,58,2,0,1,538,No
+Athens,Piraeus,House,149,None,9,3,898,Yes
+Athens,Piraeus,House,222,None,8,3,801,No
+Athens,Piraeus,Studio,23,3,0,1,515,Yes
+Athens,Piraeus,Apartment,152,5,1,2,627,Yes
+Athens,Piraeus,Studio,37,3,0,1,524,Yes
+Athens,Piraeus,Apartment,83,1,3,2,540,No
+Athens,Piraeus,Apartment,59,4,2,2,585,Yes
+Athens,Piraeus,Apartment,105,2,3,1,849,Yes
+Athens,Piraeus,House,254,None,9,2,1354,Yes
+Athens,Piraeus,Studio,24,0,0,1,456,Yes
+Athens,Piraeus,House,229,None,8,3,750,No
+Athens,Piraeus,House,435,None,5,2,870,No
+Athens,Marousi,Apartment,80,3,3,2,830,Yes
+Athens,Marousi,House,328,None,4,1,1594,Yes
+Athens,Marousi,Studio,45,2,0,1,491,No
+Athens,Marousi,Studio,55,3,0,1,759,Yes
+Athens,Marousi,House,458,None,4,3,1432,Yes
+Athens,Marousi,Studio,31,5,0,1,478,Yes
+Athens,Marousi,House,413,None,7,2,1002,No
+Athens,Marousi,House,363,None,2,4,1364,Yes
+Athens,Marousi,Studio,37,2,0,1,497,No
+Athens,Marousi,House,457,None,2,2,1162,Yes
+Athens,Marousi,Apartment,87,3,1,2,863,No
+Athens,Marousi,House,81,None,9,1,1655,Yes
+Athens,Marousi,House,300,None,2,2,1663,Yes
+Athens,Marousi,House,382,None,2,2,865,No
+Athens,Marousi,Studio,26,2,0,1,504,No
+Athens,Marousi,Studio,27,2,0,1,530,No
+Athens,Marousi,Studio,58,1,0,1,518,No
+Athens,Marousi,Apartment,131,5,4,1,862,Yes
+Athens,Marousi,Studio,21,1,0,1,572,No
+Athens,Marousi,Studio,46,1,0,1,653,No
+Athens,Marousi,Apartment,119,3,4,1,742,No
+Athens,Marousi,Studio,34,3,0,1,624,Yes
+Athens,Marousi,House,257,None,6,1,1128,No
+Athens,Marousi,Studio,33,2,0,1,631,No
+Athens,Marousi,House,103,None,2,4,1222,Yes
+Athens,Vouliagmeni,Studio,25,3,0,1,838,No
+Athens,Vouliagmeni,Apartment,188,1,4,1,832,No
+Athens,Vouliagmeni,Apartment,143,0,2,2,1224,Yes
+Athens,Vouliagmeni,Studio,36,4,0,1,638,No
+Athens,Vouliagmeni,Studio,35,3,0,1,1032,Yes
+Athens,Vouliagmeni,Apartment,103,1,4,2,1437,Yes
+Athens,Vouliagmeni,Apartment,92,2,3,1,967,Yes
+Athens,Vouliagmeni,House,162,None,4,2,2097,No
+Athens,Vouliagmeni,House,275,None,9,4,1810,Yes
+Athens,Vouliagmeni,House,437,None,8,2,1882,No
+Athens,Vouliagmeni,Studio,35,3,0,1,917,No
+Athens,Vouliagmeni,Apartment,177,1,2,2,835,No
+Athens,Vouliagmeni,Studio,57,3,0,1,653,No
+Athens,Vouliagmeni,Apartment,53,6,1,1,1260,No
+Athens,Vouliagmeni,Apartment,131,2,4,1,1179,Yes
+Athens,Vouliagmeni,House,411,None,4,1,1661,Yes
+Athens,Vouliagmeni,Apartment,153,4,1,1,1146,Yes
+Athens,Vouliagmeni,Apartment,139,2,3,1,845,No
+Athens,Vouliagmeni,Studio,44,2,0,1,790,No
+Athens,Vouliagmeni,House,233,None,4,4,1492,No
+Athens,Vouliagmeni,Apartment,153,2,1,2,972,No
+Athens,Vouliagmeni,Studio,44,3,0,1,602,No
+Athens,Vouliagmeni,Apartment,168,2,3,2,890,No
+Athens,Vouliagmeni,Apartment,169,2,3,2,946,No
+Athens,Vouliagmeni,House,403,None,3,4,1316,Yes
+Athens,Agia Paraskevi,Apartment,175,3,2,1,619,No
+Athens,Agia Paraskevi,Studio,24,3,0,1,521,Yes
+Athens,Agia Paraskevi,Apartment,123,2,2,2,929,No
+Athens,Agia Paraskevi,House,301,None,4,3,867,No
+Athens,Agia Paraskevi,House,493,None,8,1,1176,No
+Athens,Agia Paraskevi,Apartment,101,6,2,1,625,No
+Athens,Agia Paraskevi,Apartment,163,5,2,1,716,Yes
+Athens,Agia Paraskevi,House,124,None,9,2,957,No
+Athens,Agia Paraskevi,Studio,41,3,0,1,738,Yes
+Athens,Agia Paraskevi,Apartment,153,1,1,2,794,No
+Athens,Agia Paraskevi,Studio,38,6,0,1,712,Yes
+Athens,Agia Paraskevi,Apartment,114,4,2,2,1091,Yes
+Athens,Agia Paraskevi,Apartment,74,1,2,2,918,Yes
+Athens,Agia Paraskevi,House,118,None,3,4,1393,Yes
+Athens,Agia Paraskevi,Apartment,82,3,1,2,740,Yes
+Athens,Agia Paraskevi,Studio,43,3,0,1,584,Yes
+Athens,Agia Paraskevi,House,374,None,4,3,1211,Yes
+Athens,Agia Paraskevi,Studio,22,2,0,1,686,Yes
+Athens,Agia Paraskevi,House,357,None,3,1,1352,Yes
+Athens,Agia Paraskevi,House,149,None,3,3,825,No
+Athens,Agia Paraskevi,House,424,None,4,4,998,Yes
+Athens,Agia Paraskevi,Apartment,105,5,3,1,715,Yes
+Athens,Agia Paraskevi,Apartment,157,5,2,2,746,Yes
+Athens,Agia Paraskevi,Studio,22,3,0,1,537,Yes
+Athens,Agia Paraskevi,Apartment,174,2,2,2,673,No
+Athens,Voula,House,190,None,7,3,1832,Yes
+Athens,Voula,House,276,None,8,1,1774,Yes
+Athens,Voula,House,112,None,5,4,1323,No
+Athens,Voula,Studio,48,2,0,1,602,Yes
+Athens,Voula,Studio,28,1,0,1,882,Yes
+Athens,Voula,Studio,25,3,0,1,808,Yes
+Athens,Voula,House,313,None,7,2,1540,No
+Athens,Voula,Apartment,71,1,2,2,1147,Yes
+Athens,Voula,House,297,None,8,1,1324,Yes
+Athens,Voula,Apartment,178,3,3,1,985,No
+Athens,Voula,Apartment,185,3,1,2,1191,Yes
+Athens,Voula,House,110,None,5,1,1505,Yes
+Athens,Voula,Studio,21,3,0,1,480,No
+Athens,Voula,Studio,43,2,0,1,580,Yes
+Athens,Voula,Apartment,112,2,4,1,886,Yes
+Athens,Voula,House,386,None,4,1,1336,Yes
+Athens,Voula,House,308,None,9,2,1465,No
+Athens,Voula,Studio,44,1,0,1,670,No
+Athens,Voula,Apartment,160,2,4,2,1214,Yes
+Athens,Voula,House,282,None,8,4,1093,No
+Athens,Voula,Apartment,93,3,2,1,1038,No
+Athens,Voula,Apartment,111,2,2,1,840,Yes
+Athens,Voula,House,146,None,8,2,1615,Yes
+Athens,Voula,Apartment,99,1,4,1,987,No
+Athens,Voula,Studio,32,2,0,1,688,Yes
+Athens,Chalandri,House,279,None,3,2,1234,Yes
+Athens,Chalandri,Apartment,167,1,2,2,1011,Yes
+Athens,Chalandri,Apartment,70,2,2,2,730,No
+Athens,Chalandri,House,99,None,7,1,930,No
+Athens,Chalandri,House,421,None,6,4,1672,Yes
+Athens,Chalandri,House,363,None,6,4,1703,Yes
+Athens,Chalandri,Studio,57,1,0,1,618,No
+Athens,Chalandri,Studio,21,2,0,1,691,No
+Athens,Chalandri,Apartment,83,1,3,1,837,No
+Athens,Chalandri,Studio,57,0,0,1,612,Yes
+Athens,Chalandri,House,244,None,9,2,1144,No
+Athens,Chalandri,House,191,None,8,1,984,No
+Athens,Chalandri,Studio,22,1,0,1,772,Yes
+Athens,Chalandri,Studio,42,3,0,1,698,No
+Athens,Chalandri,House,484,None,6,4,1059,No
+Athens,Chalandri,House,444,None,9,4,1566,No
+Athens,Chalandri,Studio,58,3,0,1,646,No
+Athens,Chalandri,House,244,None,2,2,1051,Yes
+Athens,Chalandri,House,186,None,4,2,1397,Yes
+Athens,Chalandri,Studio,47,4,0,1,597,Yes
+Athens,Chalandri,House,139,None,8,1,1025,Yes
+Athens,Chalandri,Studio,36,1,0,1,683,No
+Athens,Chalandri,House,433,None,6,4,1177,No
+Athens,Chalandri,House,201,None,2,2,1564,Yes
+Athens,Chalandri,Apartment,58,3,4,2,805,Yes
+Athens,Ilioupoli,House,217,None,2,2,1144,Yes
+Athens,Ilioupoli,Apartment,80,2,3,1,647,Yes
+Athens,Ilioupoli,House,230,None,9,3,1383,No
+Athens,Ilioupoli,House,252,None,6,1,1021,Yes
+Athens,Ilioupoli,Apartment,59,2,2,2,698,No
+Athens,Ilioupoli,Studio,35,5,0,1,380,No
+Athens,Ilioupoli,Apartment,108,2,4,2,900,Yes
+Athens,Ilioupoli,Apartment,194,3,2,2,624,No
+Athens,Ilioupoli,Studio,50,4,0,1,634,Yes
+Athens,Ilioupoli,Studio,45,2,0,1,598,No
+Athens,Ilioupoli,Apartment,114,2,2,2,1021,Yes
+Athens,Ilioupoli,Studio,35,5,0,1,722,Yes
+Athens,Ilioupoli,House,266,None,4,1,1372,No
+Athens,Ilioupoli,House,251,None,4,3,1404,No
+Athens,Ilioupoli,House,323,None,5,3,1466,Yes
+Athens,Ilioupoli,House,352,None,3,1,892,Yes
+Athens,Ilioupoli,Apartment,111,3,3,2,653,No
+Athens,Ilioupoli,House,458,None,9,4,1225,Yes
+Athens,Ilioupoli,House,326,None,9,1,1224,No
+Athens,Ilioupoli,House,204,None,3,4,1320,No
+Athens,Ilioupoli,Apartment,130,1,3,1,901,Yes
+Athens,Ilioupoli,Studio,23,4,0,1,450,Yes
+Athens,Ilioupoli,House,343,None,5,1,1283,Yes
+Athens,Ilioupoli,Apartment,55,1,2,2,1002,Yes
+Athens,Ilioupoli,House,329,None,7,4,1102,No
+Athens,Zografou,Studio,24,2,0,1,496,No
+Athens,Zografou,Studio,26,1,0,1,658,Yes
+Athens,Zografou,House,429,None,5,1,1319,Yes
+Athens,Zografou,Studio,38,4,0,1,436,No
+Athens,Zografou,Apartment,151,1,1,2,556,No
+Athens,Zografou,Apartment,192,3,1,2,978,Yes
+Athens,Zografou,Apartment,59,5,1,1,661,Yes
+Athens,Zografou,House,247,None,7,4,1004,Yes
+Athens,Zografou,House,140,None,3,2,823,No
+Athens,Zografou,Studio,47,1,0,1,433,Yes
+Athens,Zografou,Studio,42,2,0,1,475,Yes
+Athens,Zografou,Studio,28,2,0,1,646,Yes
+Athens,Zografou,House,366,None,8,3,1379,Yes
+Athens,Zografou,Apartment,158,3,3,1,478,No
+Athens,Zografou,Studio,53,3,0,1,578,Yes
+Athens,Zografou,Studio,32,3,0,1,612,Yes
+Athens,Zografou,Apartment,189,5,2,2,467,No
+Athens,Zografou,House,302,None,3,4,699,No
+Athens,Zografou,Studio,42,3,0,1,507,Yes
+Athens,Zografou,Studio,50,3,0,1,511,No
+Athens,Zografou,Apartment,80,1,4,1,580,No
+Athens,Zografou,Studio,48,5,0,1,364,No
+Athens,Zografou,Apartment,140,4,1,1,841,No
+Athens,Zografou,House,196,None,2,4,837,No
+Athens,Zografou,Studio,56,1,0,1,478,Yes
+Athens,Palaio Faliro,House,463,None,3,4,1564,Yes
+Athens,Palaio Faliro,House,270,None,8,1,1051,No
+Athens,Palaio Faliro,Studio,58,4,0,1,591,No
+Athens,Palaio Faliro,Studio,35,5,0,1,754,Yes
+Athens,Palaio Faliro,Studio,46,5,0,1,471,Yes
+Athens,Palaio Faliro,Apartment,161,3,2,1,927,No
+Athens,Palaio Faliro,House,269,None,2,3,1417,Yes
+Athens,Palaio Faliro,House,158,None,7,3,1129,No
+Athens,Palaio Faliro,Apartment,110,6,3,1,690,Yes
+Athens,Palaio Faliro,Apartment,143,1,2,2,683,Yes
+Athens,Palaio Faliro,Studio,38,1,0,1,408,No
+Athens,Palaio Faliro,Apartment,117,5,2,2,970,No
+Athens,Palaio Faliro,Apartment,114,5,4,2,760,Yes
+Athens,Palaio Faliro,Apartment,168,2,1,2,952,No
+Athens,Palaio Faliro,House,152,None,2,1,1246,Yes
+Athens,Palaio Faliro,Apartment,158,1,2,1,710,Yes
+Athens,Palaio Faliro,House,471,None,2,2,957,No
+Athens,Palaio Faliro,Apartment,107,1,1,2,834,Yes
+Athens,Palaio Faliro,Apartment,79,1,3,1,938,No
+Athens,Palaio Faliro,Apartment,185,2,4,2,1103,Yes
+Athens,Palaio Faliro,Apartment,79,3,3,2,939,No
+Athens,Palaio Faliro,Apartment,58,3,3,2,806,Yes
+Athens,Palaio Faliro,Studio,43,1,0,1,386,No
+Athens,Palaio Faliro,House,204,None,3,1,1153,No
+Athens,Palaio Faliro,House,240,None,2,1,1185,No
+Athens,Vari,House,88,None,2,4,1272,No
+Athens,Vari,Studio,60,2,0,1,725,No
+Athens,Vari,Apartment,56,0,2,2,796,No
+Athens,Vari,House,191,None,4,1,1507,Yes
+Athens,Vari,Studio,55,3,0,1,522,No
+Athens,Vari,House,460,None,4,1,1624,Yes
+Athens,Vari,Studio,29,5,0,1,793,Yes
+Athens,Vari,Apartment,85,3,4,1,1131,Yes
+Athens,Vari,Apartment,183,4,2,1,672,No
+Athens,Vari,Apartment,148,3,2,2,1227,Yes
+Athens,Vari,Studio,36,1,0,1,629,No
+Athens,Vari,Studio,47,1,0,1,548,No
+Athens,Vari,Apartment,153,2,1,1,748,No
+Athens,Vari,Apartment,151,1,2,2,747,No
+Athens,Vari,Studio,37,5,0,1,546,Yes
+Athens,Vari,Apartment,72,2,1,1,977,No
+Athens,Vari,Studio,26,3,0,1,816,Yes
+Athens,Vari,Apartment,80,2,4,1,1072,No
+Athens,Vari,House,306,None,2,1,1135,Yes
+Athens,Vari,House,378,None,4,2,1364,Yes
+Athens,Vari,Studio,20,1,0,1,449,No
+Athens,Vari,House,190,None,9,1,1536,No
+Athens,Vari,Studio,46,2,0,1,826,Yes
+Athens,Vari,Apartment,200,3,2,2,998,Yes
+Athens,Vari,House,409,None,8,4,1552,Yes
+Athens,Vrilissia,House,332,None,4,3,963,No
+Athens,Vrilissia,Apartment,80,1,4,1,760,No
+Athens,Vrilissia,Apartment,90,1,2,2,660,No
+Athens,Vrilissia,House,451,None,9,3,1074,No
+Athens,Vrilissia,House,342,None,2,3,1129,No
+Athens,Vrilissia,Studio,39,2,0,1,494,No
+Athens,Vrilissia,House,489,None,8,2,1163,Yes
+Athens,Vrilissia,House,377,None,2,4,1525,Yes
+Athens,Vrilissia,Apartment,55,5,4,1,883,No
+Athens,Vrilissia,House,180,None,7,3,1206,No
+Athens,Vrilissia,Studio,20,2,0,1,691,Yes
+Athens,Vrilissia,House,387,None,3,4,1489,Yes
+Athens,Vrilissia,House,98,None,4,3,1354,No
+Athens,Vrilissia,Apartment,125,4,1,1,824,No
+Athens,Vrilissia,House,184,None,4,1,1222,No
+Athens,Vrilissia,House,182,None,4,1,1011,No
+Athens,Vrilissia,House,482,None,2,3,1137,No
+Athens,Vrilissia,Studio,39,2,0,1,444,No
+Athens,Vrilissia,House,168,None,4,3,1573,No
+Athens,Vrilissia,Studio,44,2,0,1,474,No
+Athens,Vrilissia,Studio,29,2,0,1,551,No
+Athens,Vrilissia,Studio,42,3,0,1,590,Yes
+Athens,Vrilissia,Apartment,71,5,2,2,881,Yes
+Athens,Vrilissia,House,163,None,4,4,1349,Yes
+Athens,Vrilissia,House,478,None,8,4,1039,Yes
+Athens,Ampelokipoi,Studio,31,1,0,1,734,Yes
+Athens,Ampelokipoi,House,231,None,2,3,1241,Yes
+Athens,Ampelokipoi,Studio,21,2,0,1,559,Yes
+Athens,Ampelokipoi,Studio,45,2,0,1,580,No
+Athens,Ampelokipoi,Apartment,173,1,2,1,743,Yes
+Athens,Ampelokipoi,Apartment,112,3,3,1,921,Yes
+Athens,Ampelokipoi,House,460,None,2,4,1415,Yes
+Athens,Ampelokipoi,Studio,56,3,0,1,598,No
+Athens,Ampelokipoi,Apartment,104,3,3,1,790,No
+Athens,Ampelokipoi,Apartment,148,1,4,2,860,No
+Athens,Ampelokipoi,House,410,None,2,2,1208,Yes
+Athens,Ampelokipoi,Studio,57,2,0,1,442,No
+Athens,Ampelokipoi,Apartment,168,3,2,1,765,Yes
+Athens,Ampelokipoi,Studio,43,2,0,1,550,No
+Athens,Ampelokipoi,House,82,None,8,2,928,Yes
+Athens,Ampelokipoi,Apartment,156,3,1,1,803,No
+Athens,Ampelokipoi,Studio,32,3,0,1,470,No
+Athens,Ampelokipoi,House,286,None,9,4,1390,No
+Athens,Ampelokipoi,Studio,49,5,0,1,556,Yes
+Athens,Ampelokipoi,Apartment,197,5,3,1,752,Yes
+Athens,Ampelokipoi,Studio,49,2,0,1,644,Yes
+Athens,Ampelokipoi,Studio,36,5,0,1,618,Yes
+Athens,Ampelokipoi,Apartment,199,4,1,1,909,No
+Athens,Ampelokipoi,Studio,27,6,0,1,533,No
+Athens,Ampelokipoi,House,467,None,9,3,1388,Yes
